@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **NehalSharma0809/NehalSharma0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Test Image 3](Intro.png)
+
+
+- 🔭 I’m currently looking for full time opportunities in Software Engineering and/or Technical Writing
+- 🌱 I’m currently learning about voice user interface design
+- 📫 Please feel free to reach me at sharmanehal009@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Loves Coffee, writing journals, star gazing and cooking!
