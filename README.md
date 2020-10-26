@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about voice user interface design
 - 📫 Please feel free to reach me at sharmanehal009@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Loves Coffee, writing journals, and star gazing!
+- ⚡ Fun fact: Loves coffee, writing journals, and star gazing!
